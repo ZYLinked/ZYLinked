@@ -44,3 +44,7 @@ ___
 | :--  | :--: | --: |
 | NOW | THERE'S | PRETTY |
 | MEMES | EXQUISITE | HA-HA |
+
+```python 
+printf("Everythingisconnecttoeverywhereandeverywhereisconnecttomyass")
+```
