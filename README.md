@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ![Moosoon](05f.jpg "季風")
 
 # Wash away the anger
-- [ ] here I stand beneth the warm and soothing rain
+`here I stand beneth the warm and soothing rain`
 
 - [ ] the drops falling gently down on the terrain 
 
