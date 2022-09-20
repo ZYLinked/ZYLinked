@@ -40,4 +40,7 @@ ___
 
 [The Stain of time](https://www.youtube.com/watch?v=OuSSXOQ-1bI)
 
-
+| HAVE | A | SMOKE |
+| :--  | :--: | --: |
+| NOW | THERE'S | PRETTY |
+| MEMES | EXQUISITE | HA-HA |
