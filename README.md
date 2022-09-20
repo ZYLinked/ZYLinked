@@ -11,9 +11,13 @@ You can click the Preview link to take a look at your changes.
 
 # Wash away the anger
 here I stand beneth the warm and soothing rain
+
 the drops falling gently down on the terrain 
+
 wash away the sorrow and all the stain of time 
+
 but there's no memory it only dry inside.
+
 >In the mud sinking deeper
 >>into a peaceful life---!
 ***
