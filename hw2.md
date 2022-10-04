@@ -14,6 +14,8 @@ gantt
 ```
 
 
+
+### Graphviz
 ```graphviz
 digraph hierarchy {
 
@@ -27,3 +29,4 @@ digraph hierarchy {
                 BusinessManager->ITManager
                 {rank=same;ITManager Teacher1 Teacher2}  // Put them on the same level
 }
+```
