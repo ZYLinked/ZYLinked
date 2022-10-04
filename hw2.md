@@ -3,7 +3,7 @@
 gantt
     title The Schedule of Communism
 
-    section The Beginning of Communism
+    section Beginning
     Task A      :active,  des1,2022-10-01  , 2022-10-04
     section Communism 2
     Task B      :         des2, after des1 , 10d
