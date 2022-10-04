@@ -15,7 +15,6 @@ gantt
 
 
 
-```graphviz
 digraph {
 	node[shape=record];
 	rankdir="LR";
@@ -31,4 +30,4 @@ digraph {
     no3->no5
     no4->no5
 }
-```
+
