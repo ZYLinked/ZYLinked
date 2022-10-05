@@ -1,4 +1,3 @@
-### Mermaid
 ```mermaid
 gantt
     title The Schedule of Communism
