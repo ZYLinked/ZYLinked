@@ -1,6 +1,6 @@
 ```mermaid
 gantt
-    title The Schedule of Communism
+    title The Schedule
 
     section 研擬計畫
     No1      :         des1, 2022-10-01  , 1d
